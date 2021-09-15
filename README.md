@@ -8,6 +8,9 @@
  - [x] Learning Java
  - [ ] Learning Python
  - [ ] Seeking Internship Software Analysis and Development
+![Git e GitHub Logo](B:\Pictures\Saved Pictures\guia-git-e-github.png)
+Format: ![Alt Text](url)
+
 <!---
 Gerson-Rodrigues/Gerson-Rodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
