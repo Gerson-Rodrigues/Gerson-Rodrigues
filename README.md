@@ -6,7 +6,9 @@
  - [x] Learning HTML 5
  - [x] Learning CSS 3 
  - [x] Learning Java
- - [ ] Learning Python
+ - [x] Learning Python
+ - [x] Pytohn: Machine Learning
+ - [ ] Python: Data Visualization
  - [ ] Seeking Internship Software Analysis and Development
 
 
