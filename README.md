@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @Gerson-Rodrigues
-- 👀 I’m interested in ... Learning Python Professional
-- 🌱 I’m currently learning ... Analysis and Systems Development / parallel i'm studying Python for Lead - Dell Technologies
+- 👀 I'm interested in... Become a Backend Developer in Java
+- 🌱 I am currently graduating in Systems Analysis and Development / Parallel doing an internship at Cast Group S.A.
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/gerson-rodrigues-academico/)
- - [x] Learning JavaScript
- - [x] Learning HTML 5
- - [x] Learning CSS 3 
- - [x] Learning Java
- - [x] Learning Python
+ - [x] Learned JavaScript
+ - [x] Learned HTML 5
+ - [x] Learned CSS 3 
+ - [x] Learned Java
+ - [x] Learned Python
  - [x] Python: Introduction to Data Science
- - [x] Seeking Internship Software Analysis and Development
+ 
  - JAVA Intern at Cast Group Informática S.A.
 
 
