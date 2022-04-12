@@ -8,8 +8,9 @@
  - [x] Learning Java
  - [x] Learning Python
  - [x] Pytohn: Machine Learning
- - [ ] Python: Data Visualization
- - [ ] Seeking Internship Software Analysis and Development
+ - [x] Python: Data Visualization
+ - [x] Seeking Internship Software Analysis and Development
+ - Java intern at Cast Group
 
 
 
