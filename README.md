@@ -13,8 +13,13 @@
 
 
 <p align="center">
+
   <img src="https://user-images.githubusercontent.com/74572651/133528072-49d4953e-8585-462f-8fcd-44a1b870d4e5.png" width="100" height="100">
-  <img src="https://user-images.githubusercontent.com/74572651/133531422-175fc3d7-e13e-40f3-92dd-31f696203892.png" width="80" height="60">
+
+  <img src="https://user-images.githubusercontent.com/74572651/180304597-2377e7c4-1eff-49ad-bace-bf628811d392.png" width="80" height="70">
+  <img src="https://user-images.githubusercontent.com/74572651/180304054-eff20d96-c8ab-431b-9705-63ed44587a83.png" width="80" height="70">
+  <img src="https://user-images.githubusercontent.com/74572651/180304965-359cf771-4a8d-4ea4-885f-b514043a614b.png" widht="100" height="50">
+
   <img src="https://user-images.githubusercontent.com/74572651/133528131-792ed91f-335e-4bdc-a5bd-7f248730373f.png" width="80" height="60">
   <img src="https://user-images.githubusercontent.com/74572651/133531000-6d2b11a8-deae-4b9e-8f16-02553c8a1f89.png" width="50" height="60">
   <img src="https://user-images.githubusercontent.com/74572651/133530613-2c716a42-b242-42c0-b8df-7f5bd3479c39.png" width="50" height="60">
