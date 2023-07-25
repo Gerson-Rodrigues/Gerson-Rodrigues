@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @Gerson-Rodrigues
 - 👀 I'm interested in... Become a Backend Developer in Java
-- 🌱 I am currently graduating in Systems Analysis and Development (third semeste) / Parallel doing an internship at Cast Group S.A.
+- 🌱 I am currently graduating in Systems Analysis and Development (sixth semester) / In parallel I work as IAM - cyber security at Scunna
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/gerson-rodrigues-academico/)
  - [x] Learned JavaScript
  - [x] Learned HTML 5
  - [x] Learned CSS 3 
  - [x] Learned Python
  - [x] Python: Introduction to Data Science
- - [ ] Learning more about Java
- - JAVA Intern at Cast Group Informática S.A.
+ - [ ] Learning more about Python
+Bootcamp SANTANDER - Data Science with Python 
 
 
 
