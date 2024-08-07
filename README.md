@@ -1,14 +1,16 @@
 - 👋 Hi, I’m @Gerson-Rodrigues
-- 👀 I'm interested in... Become a Backend Developer in Java
-- 🌱 I am currently graduating in Systems Analysis and Development (sixth semester) / In parallel I work as IAM - cyber security at Scunna
-- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/gerson-rodrigues-academico/)
+- 👀 I'm interested in... Become a Data Analyst
+- 🌱 I am currently post-graduating in Data Science / At the same time I work as an Incident Analyst - cyber security at Scunna SA
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/gerson-rodrigues-pos-graduando/)
  - [x] Learned JavaScript
  - [x] Learned HTML 5
  - [x] Learned CSS 3 
  - [x] Learned Python
  - [x] Python: Introduction to Data Science
- - [ ] Learning more about Python
-Bootcamp SANTANDER - Data Science with Python 
+ - [x] Learning more about Python
+ - [ ] Learning R
+ - [ ] Learning Data Science
+
 
 
 
@@ -28,6 +30,9 @@ Bootcamp SANTANDER - Data Science with Python
   <img src="https://user-images.githubusercontent.com/74572651/133530613-2c716a42-b242-42c0-b8df-7f5bd3479c39.png" width="40" height="50">
   <img src="https://user-images.githubusercontent.com/74572651/133531087-8fe64513-4ec4-486f-a1be-0c0eed8724e2.png" width="50" height="50">
   <img src="https://user-images.githubusercontent.com/74572651/133531142-e321e008-66a0-4c47-be86-1750e7c2916f.png" width="60" height="50"> 
+  <img src="https://w1.pngwing.com/pngs/451/367/png-transparent-pdf-logo-r-cran-statgraphics-rnn-programming-language-data-analysis-cairo.png" width="45" height="50">
+  
+  <img src="https://seeklogo.com/images/D/dataspell-logo-06435B9CF3-seeklogo.com.png" width="50" height="50">
 </p>
 
 
